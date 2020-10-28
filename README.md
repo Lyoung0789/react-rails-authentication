@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is going to be following a tutorial to understand and fine tune react-rails authrization using http session instead of JWT. This is the backend of the application. React will be the front end.
 
-Things you may want to cover:
+Will be using:
 
-* Ruby version
+- ruby '2.6.1'
 
-* System dependencies
+- bcrtypt
 
-* Configuration
+- rack-cors
 
-* Database creation
+- Database creation
 
-* Database initialization
+- Database initialization
 
-* How to run the test suite
+- How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+- Deployment instructions
