@@ -6,7 +6,7 @@ class SessionsController < ApplicationController
 
         if user 
             session[:user_id] = user.id
-            redner json:{
+            render json:{
                 status: :created,
                 logged_in: true,
                 user: user
